@@ -1,2 +1,1 @@
-# caipiaobang
-彩票帮V1.0初稿-20170608
+<a href="caipiaobang/index.html" target="_blank">test</a>
